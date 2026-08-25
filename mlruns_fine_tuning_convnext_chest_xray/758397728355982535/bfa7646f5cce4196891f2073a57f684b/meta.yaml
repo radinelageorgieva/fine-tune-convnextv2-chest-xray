@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Petar/Desktop/New folder/Deep learning/Project/mlruns_fine_tuning_convnext_chest_xray/758397728355982535/bfa7646f5cce4196891f2073a57f684b/artifacts
+end_time: 1787514553001
+entry_point_name: ''
+experiment_id: '758397728355982535'
+lifecycle_stage: active
+run_id: bfa7646f5cce4196891f2073a57f684b
+run_name: convnextv2_base_lora_run1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787504835472
+status: 3
+tags: []
+user_id: Petar
